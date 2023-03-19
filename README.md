@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anuzz8602@gmail.com**
 
-- My Resume [https://d1fdloi71mui9q.cloudfront.net/KyRE5bpQRROPvAzkrvVO_Anuj_Tomar_Resume.pdf](https://d1fdloi71mui9q.cloudfront.net/KyRE5bpQRROPvAzkrvVO_Anuj_Tomar_Resume.pdf)
+- My Resume [https://rb.gy/8mwmmw](https://rb.gy/8mwmmw)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
