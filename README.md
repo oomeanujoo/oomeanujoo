@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anuzz8602@gmail.com**
 
-- My Resume [https://rb.gy/8mwmmw](https://rb.gy/8mwmmw)
+- 📄 Know about my experiences [https://rb.gy/8mwmmw](https://rb.gy/8mwmmw)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
