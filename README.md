@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Tomar</h1>
 <h3 align="center">I am a UI/UX Developer & Product Development Professional with almost 4+ Years of experience in the creative & technical field. I have worked full-time with several start-ups & freelance clients along with managing teams & 1-1 interaction with Founders & Senior Members of various organizations. I carry skills in most of the design tools and some front-end & back-end technologies. I have worked for products like SaaS, Telematics, BPMs etc. & helped B2C, B2B and D2C businesses to scale in the market.</h3>
 
-- 🔭 I’m currently working in **Adnate IT Solutions as Associate Consultant(Technical)**
+- 🔭 I’m currently working in **Adnate IT Solutions as Technical Associate Consultant**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/anuzz](https://linktr.ee/anuzz)
 
