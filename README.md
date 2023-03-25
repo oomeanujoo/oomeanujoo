@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Tomar</h1>
 <h3 align="center">I am a UI/UX Developer & Product Development Professional with almost 4+ Years of experience in the creative & technical field. I have worked full-time with several start-ups & freelance clients along with managing teams & 1-1 interaction with Founders & Senior Members of various organizations. I carry skills in most of the design tools and some front-end & back-end technologies. I have worked for products like SaaS, Telematics, BPMs etc. & helped B2C, B2B and D2C businesses to scale in the market.</h3>
 
-- 🔭 I’m currently working in **Adnate IT Solutions as Technical Associate Consultant**
+- 🔭 I’m currently working in **Adnate IT Solutions as Associate Technical Consultant**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/anuzz](https://linktr.ee/anuzz)
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anuj-tomar-1b0b68158/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anuj-tomar-1b0b68158/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anuj-tomar-1b0b68158/" target="https://linkedin.com/in/https://www.linkedin.com/in/anuj-tomar-1b0b68158/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anuj-tomar-1b0b68158/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_um.curious/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_um.curious/" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/anujtomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/anujtomar" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@anuzz8602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@anuzz8602" height="30" width="40" /></a>
