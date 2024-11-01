@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuj Tomar</h1>
-<h3 align="center">I am a UI/UX Developer & Product Development Professional with almost 4+ Years of experience in the creative & technical field. I have worked full-time with several start-ups & freelance clients along with managing teams & 1-1 interaction with Founders & Senior Members of various organizations. I carry skills in most of the design tools and some front-end & back-end technologies. I have worked for products like SaaS, Telematics, BPMs etc. & helped B2C, B2B and D2C businesses to scale in the market.</h3>
+<h3 align="center">Full Stack Developer and Product Enthusiast with expertise in Web & Mobile Development and managing SaaS, Telematics, and BPM products. Demonstrated success in driving growth for B2C, B2B, and D2C sectors. Awarded "Best Performer of the Quarter" for exceptional project delivery. Adept at UI/UX, Product Management, and Software Engineering, aligning technical solutions with strategic goals.</h3>
 
 - 🔭 I’m currently working in **Adnate IT Solutions as Associate Technical Consultant**
 
